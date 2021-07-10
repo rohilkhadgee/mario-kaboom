@@ -15,7 +15,7 @@ let isJumping = true
 
 const FALL_DEATH = 400
 
-loadRoot('/asset/')
+loadRoot('./asset/')
 loadSprite('coin', 'coin.png')
 loadSprite('evil-shroom','evil-shroom.png')
 loadSprite('brick','brick.png')
